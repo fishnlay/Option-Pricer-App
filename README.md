@@ -13,6 +13,6 @@ With following command on the terminal:
 streamlit run app.py
 ```
 
-##Interface:
+## Interface:
 
 ![image](https://github.com/user-attachments/assets/610c07f5-4056-408a-b14a-ae6bb53fb4dd)
