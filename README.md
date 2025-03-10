@@ -8,7 +8,7 @@ As of now (3/10/2025), it contains the following pricing models:
 
 The app is not deployed yet but can be run locally.
 
-With following command:
+With following command on the terminal:
 ```
 streamlit run app.py
 ```
